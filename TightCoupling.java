@@ -17,3 +17,4 @@ class demo
         System.out.println(d1.add());//tight coupling
         }
     } 
+    //obj created 
